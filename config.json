@@ -3,4 +3,6 @@
     "subTitle":"细炳的个人博客！",
     "avatarUrl":"",
     "GMEEK_VERSION":"last"
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+
 }
